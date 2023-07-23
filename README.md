@@ -24,7 +24,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Sawan-Gautam/node_Authentication`
 
 ##### Into the project directory
 
